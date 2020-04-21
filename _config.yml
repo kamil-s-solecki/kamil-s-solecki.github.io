@@ -1,8 +1,8 @@
 # Site settings
 title:          Kamil Solecki – blog
-description:    "Something something..."
-baseurl:        "/jeckyll-blog-test"
-url:            "https://kamil-s-solecki.github.io/jeckyll-blog-test"
+description:    ""
+baseurl:        "/"
+url:            "https://kamil-s-solecki.github.io/"
 
 # Google Analytics
 # google_analytics: UA—XXXXXXXX-X
